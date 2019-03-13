@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "version": "2",
+  "name": "Palenight",
+  "description": "A dark, minimal and elegant theme",
+  "theme": {
+    "colors": {
+      "bookmark_text": [241, 243, 244],
+      "button_background": [238, 238, 238, 0],
+      "frame": [33, 37, 51],
+      "frame_inactive": [33, 37, 51],
+      "frame_incognito": [51, 56, 78],
+      "frame_incognito_inactive": [51, 56, 78],
+      "ntp_background": [41, 45, 62],
+      "ntp_section": [35, 35, 35],
+      "ntp_text": [236, 239, 241],
+      "ntp_section_link": [210, 213, 213],
+      "ntp_section_text": [210, 213, 213],
+      "tab_background_text": [59, 61, 81],
+      "tab_text": [101, 108, 146],
+      "toolbar": [59, 61, 81]
+    },
+    "tints": {
+      "buttons": [0, 0, 0.75]
+    }
+  }
+}
