@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "2",
+  "version": "2.1",
   "name": "Palenight",
   "description": "A dark, minimal and elegant theme",
   "theme": {
@@ -16,8 +16,8 @@
       "ntp_text": [236, 239, 241],
       "ntp_section_link": [210, 213, 213],
       "ntp_section_text": [210, 213, 213],
-      "tab_background_text": [59, 61, 81],
-      "tab_text": [101, 108, 146],
+      "tab_background_text": [158, 159, 167],
+      "tab_text": [254, 254, 254],
       "toolbar": [59, 61, 81]
     },
     "tints": {
